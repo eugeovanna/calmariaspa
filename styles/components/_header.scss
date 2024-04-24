@@ -61,7 +61,8 @@ header {
             background: variaveis.$cor-default;
             font-size: 1.3rem;
             &:hover{
-                background: white;
+                background-color: variaveis.$cor-secundaria;
+            }
         }
     }
 }
